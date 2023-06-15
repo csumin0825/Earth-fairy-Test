@@ -1,0 +1,18 @@
+.container {
+    width: 800px;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+.introduce{
+    display: none;
+}
+
+#titleImg {
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+}
