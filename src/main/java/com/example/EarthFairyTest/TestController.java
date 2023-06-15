@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class TestController {
-    @GetMapping("main")
+    @GetMapping("https://csumin0825.github.io/Earth-fairy-Test/")
     public String mainView(){
         return ("main");
     }
