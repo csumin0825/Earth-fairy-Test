@@ -1,10 +1,10 @@
-# 🎉 Earth-fairy-Test
+# Earth-fairy-Test
 
-## <span style="color:lightblue">🎈 프로젝트 주제
+## <span style="color:lightblue"> 프로젝트 주제
 
 ### mbti를 기반으로 한 간단한 테스트
 
-## <span style="color:lightblue"> ⌛️ 프로젝트 요약
+## <span style="color:lightblue"> 프로젝트 요약
 
 |    분류     |           내용            |  
 |:---------:|:-----------------------:|
