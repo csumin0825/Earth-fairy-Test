@@ -19,7 +19,6 @@
 ## <span style="color:lightblue"> 🔨개발 환경 - 기술 스택
 
 <!-- 테스트 : <img src="https://img.shields.io/badge/junit5-FFFFFF?style=flate&logo=junit5&logoColor=junit5"> <br> -->
-JAVA
 
 BackEnd : 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
